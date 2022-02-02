@@ -1,0 +1,33 @@
+!SESSION 2022-01-25 09:39:02.211 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data E:\Graduation code\Soure code
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-01-25 09:39:06.948
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-01-25 09:39:06.995
+!MESSAGE Log4j initialized with config file E:\Graduation code\Soure code\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-01-25 09:39:09.052
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-01-25 09:40:18.665
+!MESSAGE Indexed 'Graduation_proj' (19 sources, 78 headers) in 2.29 sec: 3,658 declarations; 13,171 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+!SESSION 2022-02-02 08:17:47.573 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-02-02 08:18:06.158
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-02-02 08:18:06.674
+!MESSAGE Log4j initialized with config file E:\Graduation code\Soure code\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-02-02 08:18:30.335
+!MESSAGE Started RMI Server, listening on port 41337
